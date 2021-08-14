@@ -1,3 +1,2 @@
-# .vim Folder
-Vim folder se nalazi na `~/.vim` lokaciji.  
-svi ovi fajlovi i folderi treba da su u tom folderu.
+# Shell and Vim Settings
+Ovi fajlovi treba da se nalaze u `$home` direktorijumu 
