@@ -1,0 +1,12 @@
+source $HOME/.vim/vim-plug/plugins.vim
+source $HOME/.vim/general/settings.vim
+source $HOME/.vim/keys/mappings.vim
+source $HOME/.vim/general/paths.vim
+source $HOME/.vim/themes/onedark.vim
+source $HOME/.vim/themes/airline.vim
+source $HOME/.vim/plug-config/coc.vim
+source $HOME/.vim/plug-config/fzf.vim
+source $HOME/.vim/plug-config/rainbow.vim
+source $HOME/.vim/plug-config/start-screen.vim
+source $HOME/.vim/keys/which-key.vim
+source $HOME/.vim/plug-config/floaterm.vim
